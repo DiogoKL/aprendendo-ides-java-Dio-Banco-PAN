@@ -19,7 +19,7 @@ public class primeiroProgramaJava {
 
 }
 
-class Livros {
+/*class Livros {
 		private String nome;
 		private String npag;
-}
+}*/
